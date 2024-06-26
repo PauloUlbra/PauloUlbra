@@ -1,9 +1,8 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ### PT-BR
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Luterana do Brasil.
 - 💼 Atualmente procurando oportunidades dentro da área de desenvolvimento.
 - 🌱 Aprendendo sobre PHP 8.3 e stacks Front-End
@@ -44,4 +43,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-Paulo_Roberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulorobmsantos/)](https://www.linkedin.com/in/paulorobmsantos/)
 [![Gmail Badge](https://img.shields.io/badge/-paulo.martinssantos20@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.martinssantos20@gmail.comL)](mailto:paulo.martinssantos20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PauloUlbra)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/PauloUlbra)
