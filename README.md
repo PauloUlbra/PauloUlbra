@@ -6,19 +6,19 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Luterana do Brasil.
 - 💼 Atualmente procurando oportunidades dentro da área de desenvolvimento.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🌱 Aprendendo sobre PHP 8.3 e stacks Front-End
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
 ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-333333?style=flat&logo=bootstrap&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/tailwindcss-333333.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
@@ -44,4 +44,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-Paulo_Roberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulorobmsantos/)](https://www.linkedin.com/in/paulorobmsantos/)
 [![Gmail Badge](https://img.shields.io/badge/-paulo.martinssantos20@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.martinssantos20@gmail.comL)](mailto:paulo.martinssantos20@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/PauloUlbra)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PauloUlbra)
