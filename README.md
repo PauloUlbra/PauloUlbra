@@ -6,6 +6,8 @@
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Luterana do Brasil.
 - 💼 Atualmente procurando oportunidades dentro da área de desenvolvimento.
 - 🌱 Aprendendo sobre PHP 8.3, Java e Stacks Front-End
+  
+<br />
 
 ### ENG
 ## About Me
